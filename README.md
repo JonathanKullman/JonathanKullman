@@ -55,4 +55,4 @@ Azure, Azure DevOps, CI/CD
 ## 🌐 Links
 
 🌍 Portfolio: https://jonathankullman.vercel.app  
-🔗 LinkedIn: linkedin.com/in/jonathankullman/
+🔗 LinkedIn: https://linkedin.com/in/jonathankullman/
