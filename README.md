@@ -16,7 +16,7 @@
 
 Full-stack Software Engineer based in Varberg, Sweden.
 
-I build scalable, production-ready systems using .NET and modern frontend technologies like React and Next.js. I enjoy working across the full stack — from backend architecture and APIs to clean, user-focused interfaces.
+I build scalable, production-ready systems using .NET and modern frontend technologies like React and Next.js. I enjoy working across the full stack, from backend architecture and APIs to clean, user-focused interfaces.
 
 I’m especially interested in frontend engineering, UI/UX design patterns, and how AI tools can improve the way we build software.
 
@@ -55,3 +55,4 @@ Azure, Azure DevOps, CI/CD
 ## 🌐 Links
 
 🌍 Portfolio: https://jonathankullman.vercel.app  
+🔗 LinkedIn: linkedin.com/in/jonathankullman/
